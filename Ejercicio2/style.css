@@ -1,0 +1,42 @@
+table {
+    border: 6px inset rgb(100, 74, 39);
+    /*padding: 3%;
+    width: 50%;
+    height: 12em;*/
+}
+
+table td:hover{
+    background-color: rgb(255, 0, 0, 0.5);
+}
+/*
+table tr, td{
+    border: none;
+    padding: 0;
+}
+*/
+table td{
+    height: 100px;
+    width: 100px;
+}
+/*
+h1{
+    visibility: hidden;
+}
+*/
+.CNegro{
+    background: black;
+    color: white;
+}
+
+.Cblanca{
+    background: white;
+    color: black;
+}
+
+table td div{
+    visibility: hidden
+}
+
+table td:hover > div{
+    visibility: visible;
+}
