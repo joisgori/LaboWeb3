@@ -1,4 +1,5 @@
 table {
+    margin-left: 2em;
     border: 6px inset rgb(100, 74, 39);
     /*padding: 3%;
     width: 50%;
@@ -18,11 +19,12 @@ table td{
     height: 100px;
     width: 100px;
 }
-/*
+
 h1{
-    visibility: hidden;
+    font: bold sans-serif;
+    align-self: center;
 }
-*/
+
 .CNegro{
     background: black;
     color: white;
@@ -39,4 +41,18 @@ table td div{
 
 table td:hover > div{
     visibility: visible;
+}
+
+header{
+    background: darkkhaki;
+}
+
+footer{
+    background: rgb(184, 146, 146);
+}
+
+footer table {
+    color: blue;
+    margin: 2%;
+    width: 35%;
 }
