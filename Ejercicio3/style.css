@@ -7,7 +7,7 @@
     padding-left: 15%;
     padding-right: 15%;
     border: none;
-    border-radius: 12%;
+    border-radius: 9%;
     font-size: 1.1em;
 }
 
@@ -18,6 +18,82 @@
 
 #Gra{
     font-size: 1.7em;
+}
+
+.Col{
+    border: none;
+    border-radius: 9%;
+    padding: 10%;
+    margin: 2em;
+    font-size: 1.1em;
+    color: white;
+}
+
+#Es{
+    background: #57d68d;
+}
+
+#Ci{
+    background: #5cace2;
+}
+
+#Am{
+    background: #ae7ac4;
+}
+
+#As{
+    background: #5c6d7e;
+}
+
+#To{
+    background: #ea974e;
+}
+
+#Ru{
+    background: #eb6f62;
+}
+
+.Bor{
+    border-radius: 9%;
+    padding: 10%;
+    margin: 2em;
+    font-size: 1.1em;
+    background: white; /*Preguntar cuál es la dif con background color*/ 
+}
+
+#Sim{
+    border: 2px solid gold;
+    color: gold;
+}
+
+#Esm{
+    border: 2px solid #57d68d;
+    color: #57d68d;
+}
+
+#Cie{
+    border: 2px solid #5cace2;
+    color: #5cace2;
+}
+
+#Ama{
+    border: 2px solid #ae7ac4;
+    color:#ae7ac4;
+}
+
+#Asf{
+    border: 2px solid #5c6d7e;
+    color: #5c6d7e;
+}
+
+#Top{
+    border: 2px solid #ea974e;
+    color: #ea974e;
+}
+
+#Rub{
+    border: 2px solid #eb6f62;
+    color: #eb6f62;
 }
 
 /*
