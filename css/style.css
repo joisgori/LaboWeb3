@@ -5,3 +5,12 @@ hola mundo
     background: rgb(223, 154, 146);
     font-family: 'Indie Flower', cursive;
 }
+
+h1{
+    color: greenyellow;
+}
+
+.im{
+    width: 250px;
+    height: 250px;
+}
