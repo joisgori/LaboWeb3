@@ -96,11 +96,45 @@
     color: #eb6f62;
 }
 
+.Comb{
+    border-radius: 9%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin: 1.5em;
+}
+
+#Las{
+    font-size: 1.7em;
+    border: none;
+    background: #5c6d7e;
+    color: white;
+}
+
+#Bci{
+    border: 2px solid #5cace2;
+    color: #5cace2;
+    background: white;
+}
+
+#Pes{
+    border: none;
+    font-size: 0.6em;
+    background:  #57d68d;
+    color: white;
+}
+
+#Gru{
+    font-size: 1.7em;
+    border: 2px solid #eb6f62;
+    color: #eb6f62;
+    background: white;
+}
+
 /*
-#57d68d
-#5cace2
-#ae7ac4;
-#5c6d7e
-#ea974e
-#eb6f62
+#57d68d; esmeralda
+#5cace2; cielo
+#ae7ac4; amatista
+#5c6d7e; asfalto
+#ea974e; topazio
+#eb6f62; rubí
 ---------
